@@ -33,4 +33,8 @@ To leverage sales data for identifying customer behavior patterns and optimize m
 - `General Store Data Analysis.xlsx` – Contains cleaned data, pivot tables, and the interactive dashboard
 - `Raw.xlsx` – Contains raw dat
 ---
- 
+ ## Preview
+
+![Ecommerce Dashboard](./General_Store_Data_Dashboard.jpg)
+
+---
